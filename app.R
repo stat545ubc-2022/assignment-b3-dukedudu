@@ -5,6 +5,7 @@ library(datateachr) # for cancer_sample dataset
 library(tidyverse)
 library(shinyWidgets)
 bcl <- read.csv("https://raw.githubusercontent.com/daattali/shiny-server/master/bcl/data/bcl-data.csv")
+options(shiny.autoreload = TRUE)
 ui <- fluidPage(
   img(src='liquor.jpg', align = "right", height="30%", width="30%"),
   titlePanel("BC Liquor Store prices"),

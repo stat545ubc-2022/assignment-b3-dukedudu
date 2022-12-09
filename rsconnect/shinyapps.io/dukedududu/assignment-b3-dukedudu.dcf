@@ -5,9 +5,9 @@ account: dukedududu
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 7790999
-bundleId: 6579896
+bundleId: 6617956
 url: https://dukedududu.shinyapps.io/assignment-b3-dukedudu/
-when: 1669947165.22616
-lastSyncTime: 1669947165.22618
+when: 1670626551.44247
+lastSyncTime: 1670626551.44248
 asMultiple: FALSE
 asStatic: FALSE

@@ -1,9 +1,7 @@
 # STAT 545 Assignment_b3 & b4
-================
-Mingyuan Du
-2022-12-09
+Mingyuan Du <br />
+2022-12-09 <br />
 This is the repository for STAT 545B - Assignment 3 & 4. It contains two shiny apps: an improved BC Liquor App (Assignment 3 Option A) and an improved BC Liquor App with different functions (Assignment 4 Option C).
-Assignment 3 Option A
 ## Assignment 4
 The previous shiny app has been reconstructed. Now the user can select from liquor under different sweetness and to explore the relationship between alcohol content and prices. Visit the app at https://dukedududu.shinyapps.io/assignment-b3-dukedudu/.
 ### Overview of app features
